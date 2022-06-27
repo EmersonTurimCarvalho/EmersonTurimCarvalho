@@ -1,0 +1,3 @@
+- 👋 Olá, eu sou @EmersonTurimCarvalho
+- 👀 Eu estou me dedicando a aprender Front-End.
+- 🌱 No momento me dedico a estudar REACT.
